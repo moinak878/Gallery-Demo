@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # To run the App
 1. clone the repo
-2. yarn add axios@0.19.2 bootstrap@4.4.1 node-sass@4.13.1 react-bootstrap@1.0.0 redux@4.0.5 react-redux@7.2.0 redux-thunk@2.3.0 react-router-dom@5.1.2 @mdbreact
+2. yarn add axios@0.19.2 bootstrap@4.4.1 node-sass@4.13.1 react-bootstrap@1.0.0 redux@4.0.5 react-redux@7.2.0 redux-thunk@2.3.0 react-router-dom@5.1.2 mdbreact
 3. Go to server folder : yarn add cors@2.8.5 express@4.17.1 mongoose@5.9.7 multer@1.4.2
 
 
